@@ -1,1 +1,12 @@
-{"success":false,"error":{"message":"Missing required input","code":100},"api_version":"3.0.0","help_url":"http:\/\/www.newgrounds.com\/wiki\/creator-resources\/newgrounds-apis\/newgrounds-io"}
+{
+    "success": true,
+    "app_id": "51023:BZcehASd",
+    "result": {
+        "component": "App.getCurrentVersion",
+        "data": {
+            "success": true,
+            "current_version": "v0.2.7.1",
+            "client_deprecated": false
+        }
+    }
+}
