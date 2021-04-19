@@ -1,1 +1,0 @@
-# fominizt.github.io
